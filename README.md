@@ -35,3 +35,8 @@ Student Management
 Session Management
 > Create lecture sessions
 > course code
+> Date
+> Starting time
+> Duration
+
+Registing New Students
